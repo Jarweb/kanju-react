@@ -1,0 +1,78 @@
+.movie-head{
+	padding: 20px 30px;
+	background-color: #000;
+}
+.movie-head img{
+	float: left;
+	width: 120px;
+	display: block;
+}
+.movie-desc{
+	overflow: hidden;
+	padding-left: 20px;
+}
+.movie-title{
+	font-size: 22px;
+	color: #fff;
+}
+.movie-tip{
+	padding-top: 6px;
+	font-size: 14px; 
+	color: #f6f6f6;
+}
+.movie-tip span{
+	padding-right: 10px;
+}
+.movie-tab-wrap{
+	padding: 0 30px;
+	background-color: #404040;
+}
+.movie-detail{
+	font-size: 14px;
+	line-height: 1.5;
+	color: #929292;
+}
+.movie-comment{
+
+}
+.comment-title{
+	font-size: 15px;
+	color: #929292;
+	padding-bottom: 10px;
+}
+.comment-item{
+	padding: 10px 0;
+	border-bottom: 1px solid #333;
+}
+.comment-text{
+	padding-right: 10px;
+	font-size: 14px;
+	color: #929292
+}
+.movie-downlink{
+
+}
+.movie-related{
+	padding: 30px 30px;
+	overflow: auto;
+	color: #929292;
+	background-color: #404040;
+}
+.movie-related-inner{
+	padding-top: 20px;
+}
+.movie-related-inner-item{
+	float: left;
+	box-sizing: border-box;
+	width: 100px;
+	margin-right: 10px
+}
+.movie-related-inner-item img{
+	display: block;
+	width: 100%;
+	height: 120px;
+}
+.related-title{
+	font-size: 12px;
+	color: #929292;
+}
